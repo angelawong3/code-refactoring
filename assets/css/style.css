@@ -1,29 +1,23 @@
-/* Sets all elements to a default value of border-box property */
 * {
+    /* Sets all elements to a default value of border-box property */
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/* Uses hex code to define backgroud color of the page */
 body {
     background-color: #d9dcd6;
 }
 
-/* Use hex code to define color the words in the list
-Remove the underline */
 a {
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none; /* Remove the underline for the links*/
 }
 
-/* Sets text size of paragraphs to 16px */
 p {
     font-size: 16px;
 }
 
-/* Sets padding size, font family 
-Uses hex code to define color */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial', 'sans-serif';
