@@ -12,7 +12,7 @@ The Webpage includes:
 
 ```
 Link to the page: 
-https://angelawong3.github.io/week1-homework/
+[A link to the page](https://angelawong3.github.io/week1-homework/)
 ```
 
 ---
