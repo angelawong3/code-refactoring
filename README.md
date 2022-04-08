@@ -10,10 +10,8 @@ The Webpage includes:
 ![header, nav, and header image](./assets/images/homepage-header-nav.png)
 ![content and footer](./assets/images/homepage-content-footer.png)
 
-```
-Link to the page: 
+### Link: 
 Click [https://angelawong3.github.io/week1-homework/](https://angelawong3.github.io/week1-homework/) to go to the page. 
-```
 
 ---
 © Angela Wong
