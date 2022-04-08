@@ -1,28 +1,20 @@
-# Homework for week 1
+# Homepage for Horiseon Social Solution Services
 
-## Webpage for Horiseon Social Solution Services
+## This is the repository for the homepage
 
-## In HTML file
+The Webpage includes: 
 
-1. HTML file is now commented. 
+(./assets/images/homepage-header-nav.png)
+1. A header with a navigation bar, and a header image
 
-2. Changed the title from "website" to "Horiseon Social Solution Services". 
+(./assets/images/homepage-content-footer.png)
+2. Content consists of cards with text and images
+3. A Footer 
 
-3. The link for "Search Engine Optimization" now works by correcting the a href attribute. 
+```
+Link to the page: 
 
-4. Adding alt attributes for the icon and image elements. 
-
-5. Heading attributes now falls in sequential order, i.e. the footer is now using h4 tag. 
-
-
-## In CSS file
-1. CSS file is now commented. 
-
-2. Class selectors with the same property and value are consolidated to be concise. 
-
-3. 
-
-### 
+```
 
 ---
 © Angela Wong
